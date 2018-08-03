@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\msi\source\repos\statichuffman\statichuffman\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\source\repos\statichuffman\statichuffman\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\source\repos\statichuffman\statichuffman\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\source\repos\statichuffman\statichuffman\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\source\repos\statichuffman\statichuffman\source.cpp(72): warning C4715: 'GerenateTree': not all control paths return a value
+  StaticHuffman.vcxproj -> C:\Users\MSI\source\repos\StaticHuffman\Debug\StaticHuffman.exe
